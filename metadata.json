@@ -1,0 +1,7 @@
+{
+  "name": "Macheo Ecolodge-Camping",
+  "description": "A modern, eco-friendly website for Macheo Ecolodge-Camping in Kibuye, Rwanda, featuring lake views, sustainability, and high-quality hospitality.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
